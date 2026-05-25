@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artifacts
+data/raw/
+data/interim/
+data/images/*
+!data/images/
+!data/images/.gitkeep
+data/processed/*
+!data/processed/
+!data/processed/.gitkeep
+!data/processed/text_search/
+data/processed/text_search/*
+!data/processed/text_search/.gitkeep
+models/
+artifacts/
+checkpoints/
+*.h5
+*.keras
+*.ckpt
+*.safetensors
+
+# Reports and exports
+report/*.pdf
+report/*.docx
+report/*.pptx
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
