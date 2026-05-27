@@ -5,6 +5,7 @@ Use this folder for the final capstone report, figures, tables, screenshots, and
 Current contents:
 
 - `final_report.md`
+- `screenshots/`
 
 Suggested supporting contents:
 
