@@ -27,6 +27,9 @@ data/interim/
 data/images/*
 !data/images/
 !data/images/.gitkeep
+data/generated/*
+!data/generated/
+!data/generated/.gitkeep
 data/processed/*
 !data/processed/
 !data/processed/.gitkeep
