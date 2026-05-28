@@ -48,6 +48,8 @@ checkpoints/
 report/*.pdf
 report/*.docx
 report/*.pptx
+!report/Smart_Product_Intelligence_Final_Presentation.pptx
+
 
 # OS and editor files
 .DS_Store
